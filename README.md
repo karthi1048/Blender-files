@@ -7,8 +7,16 @@ Here, you'll find the complete project files used to create the renders and anim
 Feel free to download, explore, or modify these files to better understand the techniques and workflows I use in Blender. You can use them as learning resources or adapt them for your own projects.
 
 ## Render Engines
-The projects within these `.blend` files are designed for use with both:
+The projects within these `.blend` files are designed using:
 - **Eevee**: Fast real-time rendering with impressive results.
+  
+<p align=center>OR</p>
+
 - **Cycles**: For more detailed and realistic path-tracing renders.
+
+## File details
+
+
+
 
 If you have any questions or suggestions regarding the projects, feel free to reach out. Enjoy creating!
