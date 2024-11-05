@@ -18,5 +18,6 @@ The projects within these `.blend` files are designed using:
 
 
 
+<hr>
 
 If you have any questions or suggestions regarding the projects, feel free to reach out. Enjoy creating!
